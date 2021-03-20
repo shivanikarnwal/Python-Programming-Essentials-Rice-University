@@ -1,0 +1,5 @@
+feet to miles:
+https://py3.codeskulptor.org/#user306_wQP7myC6hA_0.py
+
+number to hours,minutes,seconds:
+https://py3.codeskulptor.org/#user306_3Jy4vNofP9_0.py

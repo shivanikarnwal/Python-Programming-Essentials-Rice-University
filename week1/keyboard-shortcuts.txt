@@ -1,0 +1,2 @@
+ctrl+shift+k --- un comment multiple lines at once
+ctrl+k --------- comment multiple line
